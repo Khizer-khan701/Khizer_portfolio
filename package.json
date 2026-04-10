@@ -2,8 +2,7 @@
   "name": "dev-portfolio",
   "version": "1.0.0",
   "scripts": {
-    "dev": "echo 'No dev script'",
-    "build": "echo 'No build script'"
+    "build": "echo 'No build step required for static HTML site'"
   },
   "dependencies": {
     "nodemailer": "^6.9.7"
